@@ -12,7 +12,7 @@ pip install tensorflow keras pickle nltk
 
 train_chatbot.py — In this file, we will build and train the deep learning model that can classify and identify what the user is asking to the bot.
 
-gui_Chatbot.py — This file is where we will build a graphical user interface to chat with our trained chatbot.
+gui_chatbot.py — This file is where we will build a graphical user interface to chat with our trained chatbot.
 
 intents.json — The intents file has all the data that we will use to train the model. It contains a collection of tags with their corresponding patterns and responses.
 
